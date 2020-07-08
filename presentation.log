@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.5.10)  8 JUL 2020 15:02
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.5.10)  8 JUL 2020 16:59
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -690,7 +690,7 @@ Package: fontenc 2020/02/11 v2.0o Standard LaTeX package
 File: t3enc.def 2001/12/31 T3 encoding
 Now handling font encoding T3 ...
 ... no UTF-8 mapping file for font encoding T3
-))) (./beamerthemevub.sty
+)))
 (/usr/share/texlive/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
 (/usr/share/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
 Package: pgf 2020/01/08 v3.1.5b (3.1.5b)
@@ -762,12 +762,33 @@ File: pgfmodulematrix.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 zlibrarytopaths.code.tex
 File: tikzlibrarytopaths.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 )))
+(/usr/share/texlive/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen294
+\lightrulewidth=\dimen295
+\cmidrulewidth=\dimen296
+\belowrulesep=\dimen297
+\belowbottomsep=\dimen298
+\aboverulesep=\dimen299
+\abovetopsep=\dimen300
+\cmidrulesep=\dimen301
+\cmidrulekern=\dimen302
+\defaultaddspace=\dimen303
+\@cmidla=\count329
+\@cmidlb=\count330
+\@aboverulesep=\dimen304
+\@belowrulesep=\dimen305
+\@thisruleclass=\count331
+\@lastruleclass=\count332
+\@thisrulewidth=\dimen306
+)
+(./beamerthemevub.sty
 (/usr/share/texlive/texmf-dist/tex/latex/varwidth/varwidth.sty
 Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
 \@vwid@box=\box79
-\sift@deathcycles=\count329
-\@vwid@loff=\dimen294
-\@vwid@roff=\dimen295
+\sift@deathcycles=\count333
+\@vwid@loff=\dimen307
+\@vwid@roff=\dimen308
 )
 (./vubprivate.sty
 Package: vubprivate 
@@ -802,7 +823,7 @@ Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
 \XKV@toks=\toks45
 \XKV@tempa@toks=\toks46
 )
-\XKV@depth=\count330
+\XKV@depth=\count334
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 ))
 (/usr/share/texlive/texmf-dist/tex/latex/base/textcomp.sty
@@ -843,36 +864,36 @@ LaTeX Font Info:    Font shape `T1/Roboto-LF/light/n' will be
 )))
 (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
 File: l3backend-pdfmode.def 2020-02-03 L3 backend support: PDF mode
-\l__kernel_color_stack_int=\count331
+\l__kernel_color_stack_int=\count335
 \l__pdf_internal_box=\box80
 )
 (./presentation.aux (./templates.aux) (./nick/presentation.aux)
 (./steve/presentation.aux))
 \openout1 = `presentation.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 10.
-LaTeX Font Info:    ... okay on input line 10.
-LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 10.
-LaTeX Font Info:    Trying to load font information for T3+cmr on input line 10
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 14.
+LaTeX Font Info:    Trying to load font information for T3+cmr on input line 14
 .
  (/usr/share/texmf/tex/latex/tipa/t3cmr.fd
 File: t3cmr.fd 2001/12/31 TIPA font definitions
 )
-LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    ... okay on input line 14.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -910,16 +931,16 @@ LaTeX Font Info:    ... okay on input line 10.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count332
-\scratchdimen=\dimen296
+\scratchcounter=\count336
+\scratchdimen=\dimen309
 \scratchbox=\box81
-\nofMPsegments=\count333
-\nofMParguments=\count334
+\nofMPsegments=\count337
+\nofMParguments=\count338
 \everyMPshowfont=\toks47
-\MPscratchCnt=\count335
-\MPscratchDim=\dimen297
-\MPnumerator=\count336
-\makeMPintoPDFobject=\count337
+\MPscratchCnt=\count339
+\MPscratchDim=\dimen310
+\MPnumerator=\count340
+\makeMPintoPDFobject=\count341
 \everyMPtoPDFconversion=\toks48
 ) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
@@ -932,7 +953,7 @@ e
 ))
 ABD: EveryShipout initializing macros
 \AtBeginShipoutBox=\box82
-Package hyperref Info: Link coloring OFF on input line 10.
+Package hyperref Info: Link coloring OFF on input line 14.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
@@ -943,63 +964,63 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 (/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count338
+\c@section@level=\count342
 )
-LaTeX Info: Redefining \ref on input line 10.
-LaTeX Info: Redefining \pageref on input line 10.
-LaTeX Info: Redefining \nameref on input line 10.
+LaTeX Info: Redefining \ref on input line 14.
+LaTeX Info: Redefining \pageref on input line 14.
+LaTeX Info: Redefining \nameref on input line 14.
 
 (./presentation.out) (./presentation.out)
 \@outlinefile=\write5
 \openout5 = `presentation.out'.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 10.
+(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 14.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 10.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 14.
 \symnumbers=\mathgroup6
 \sympureletters=\mathgroup7
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/cmss/m/n --> T1/cmr/m/n on input line 10.
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 10.
+(Font)                  OT1/cmss/m/n --> T1/cmr/m/n on input line 14.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 14.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> T1/Roboto-LF/b/n on input line 10.
+(Font)                  OT1/cmr/bx/n --> T1/Roboto-LF/b/n on input line 14.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmr/bx/n --> T1/Roboto-LF/b/n on input line 10.
-LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 10.
+(Font)                  OT1/cmr/bx/n --> T1/Roboto-LF/b/n on input line 14.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 14.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> T1/Roboto-LF/m/n on input line 10.
+(Font)                  OT1/cmss/m/n --> T1/Roboto-LF/m/n on input line 14.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> T1/Roboto-LF/m/n on input line 10.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 10.
+(Font)                  OT1/cmss/bx/n --> T1/Roboto-LF/m/n on input line 14.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 14.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> T1/Roboto-LF/m/it on input line 10.
+(Font)                  OT1/cmr/m/it --> T1/Roboto-LF/m/it on input line 14.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> T1/Roboto-LF/m/it on input line 10.
-LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 10.
+(Font)                  OT1/cmr/bx/it --> T1/Roboto-LF/m/it on input line 14.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 14.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> T1/cmtt/m/n on input line 10.
+(Font)                  OT1/cmtt/m/n --> T1/cmtt/m/n on input line 14.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> T1/cmtt/m/n on input line 10.
+(Font)                  OT1/cmtt/m/n --> T1/cmtt/m/n on input line 14.
 LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
-(Font)                  T1/Roboto-LF/m/n --> T1/Roboto-LF/b/n on input line 10.
+(Font)                  T1/Roboto-LF/m/n --> T1/Roboto-LF/b/n on input line 14.
 
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
 (Font)                  T1/Roboto-LF/m/it --> T1/Roboto-LF/b/it on input line 1
-0.
+4.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  OT1/cmss/b/n --> T1/cmr/b/n on input line 10.
+(Font)                  OT1/cmss/b/n --> T1/cmr/b/n on input line 14.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  T1/Roboto-LF/b/n --> T1/Roboto-LF/b/n on input line 10.
+(Font)                  T1/Roboto-LF/b/n --> T1/Roboto-LF/b/n on input line 14.
 
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  T1/Roboto-LF/m/n --> T1/Roboto-LF/b/n on input line 10.
+(Font)                  T1/Roboto-LF/m/n --> T1/Roboto-LF/b/n on input line 14.
 
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 (Font)                  T1/Roboto-LF/m/it --> T1/Roboto-LF/b/it on input line 1
-0.
+4.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  T1/cmtt/m/n --> T1/cmtt/b/n on input line 10.
+(Font)                  T1/cmtt/m/n --> T1/cmtt/b/n on input line 14.
 
 (/usr/share/texlive/texmf-dist/tex/latex/translator/translator-basic-dictionary
 -English.dict
@@ -1025,35 +1046,35 @@ Dictionary: translator-numbers-dictionary, Language: English
 ry-English.dict
 Dictionary: translator-theorem-dictionary, Language: English 
 )
-\c@mv@tabular=\count339
-\c@mv@boldtabular=\count340
+\c@mv@tabular=\count343
+\c@mv@boldtabular=\count344
  (./presentation.nav)
 LaTeX Font Info:    Font shape `T1/Roboto-LF/l/n' aliased to
-(Font)              `T1/Roboto-LF/light/n' on input line 10.
+(Font)              `T1/Roboto-LF/light/n' on input line 14.
 LaTeX Font Info:    Font shape `T1/Roboto-LF/light/n' will be
-(Font)              scaled to size 6.0pt on input line 10.
+(Font)              scaled to size 6.0pt on input line 14.
 
 
 Package hyperref Warning: Option `pdfauthor' has already been used,
-(hyperref)                setting the option has no effect on input line 14.
+(hyperref)                setting the option has no effect on input line 18.
 
-LaTeX Font Info:    Trying to load font information for T1+qag on input line 17
+LaTeX Font Info:    Trying to load font information for T1+qag on input line 21
 .
 (/usr/share/texmf/tex/latex/tex-gyre/t1qag.fd
 File: t1qag.fd 2009/09/25 v1.2 font definition file for T1/qag
 )
 LaTeX Font Info:    Font shape `T1/Roboto-LF/l/n' aliased to
-(Font)              `T1/Roboto-LF/light/n' on input line 17.
+(Font)              `T1/Roboto-LF/light/n' on input line 21.
 LaTeX Font Info:    Font shape `T1/Roboto-LF/light/n' will be
-(Font)              scaled to size 4.0pt on input line 17.
+(Font)              scaled to size 4.0pt on input line 21.
 LaTeX Font Info:    Font shape `T1/Roboto-LF/l/n' aliased to
-(Font)              `T1/Roboto-LF/light/n' on input line 17.
+(Font)              `T1/Roboto-LF/light/n' on input line 21.
 LaTeX Font Info:    Font shape `T1/Roboto-LF/light/n' will be
-(Font)              scaled to size 8.0pt on input line 17.
+(Font)              scaled to size 8.0pt on input line 21.
 <dept/vub-ai.pdf, id=13, 1528.71124pt x 324.21124pt>
 File: dept/vub-ai.pdf Graphic file (type pdf)
 <use dept/vub-ai.pdf>
-Package pdftex.def Info: dept/vub-ai.pdf  used on input line 17.
+Package pdftex.def Info: dept/vub-ai.pdf  used on input line 21.
 (pdftex.def)             Requested size: 134.14911pt x 28.45274pt.
 
 Underfull \hbox (badness 10000) has occurred while \output is active
@@ -1177,12 +1198,25 @@ Package varwidth Warning: Failed to reprocess entire contents on input line 68.
 \openout2 = `steve/presentation.aux'.
 
  (./steve/presentation.tex
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibraryarrows.code.tex
+File: tikzlibraryarrows.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 
-Package varwidth Warning: Failed to reprocess entire contents on input line 12.
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryarrows.code.
+tex
+File: pgflibraryarrows.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\arrowsize=\dimen311
+))
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibrarypositioning.code.tex
+File: tikzlibrarypositioning.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+
+Package varwidth Warning: Failed to reprocess entire contents on input line 14.
 
 
 
-Package varwidth Warning: Failed to reprocess entire contents on input line 12.
+Package varwidth Warning: Failed to reprocess entire contents on input line 14.
 
 
 [5
@@ -1192,101 +1226,111 @@ Package varwidth Warning: Failed to reprocess entire contents on input line 12.
 
 
 ]
+<images/phonetic-sequential-memory.png, id=65, 1895.08pt x 519.9425pt>
+File: images/phonetic-sequential-memory.png Graphic file (type png)
+<use images/phonetic-sequential-memory.png>
+Package pdftex.def Info: images/phonetic-sequential-memory.png  used on input l
+ine 28.
+(pdftex.def)             Requested size: 307.28987pt x 84.3032pt.
 
-Package varwidth Warning: Failed to reprocess entire contents on input line 16.
+
+Package varwidth Warning: Failed to reprocess entire contents on input line 28.
 
 
 
-Package varwidth Warning: Failed to reprocess entire contents on input line 16.
+Package varwidth Warning: Failed to reprocess entire contents on input line 28.
 
 
 [6
 
-]
+ <./images/phonetic-sequential-memory.png>]
 
-Package varwidth Warning: Failed to reprocess entire contents on input line 20.
+Package varwidth Warning: Failed to reprocess entire contents on input line 102
+.
 
 
-
-Package varwidth Warning: Failed to reprocess entire contents on input line 20.
-
+Package varwidth Warning: Failed to reprocess entire contents on input line 102
+.
 
 [7
 
 ]
+<images/idyot-seqmem-graph-model.png, id=80, 515.9275pt x 592.2125pt>
+File: images/idyot-seqmem-graph-model.png Graphic file (type png)
+<use images/idyot-seqmem-graph-model.png>
+Package pdftex.def Info: images/idyot-seqmem-graph-model.png  used on input lin
+e 118.
+(pdftex.def)             Requested size: 153.64493pt x 176.36386pt.
+<images/hierarchical-block-model.png, id=81, 1300.86pt x 1457.445pt>
+File: images/hierarchical-block-model.png Graphic file (type png)
+<use images/hierarchical-block-model.png>
+Package pdftex.def Info: images/hierarchical-block-model.png  used on input lin
+e 118.
+(pdftex.def)             Requested size: 153.64493pt x 172.12823pt.
 
-Package varwidth Warning: Failed to reprocess entire contents on input line 24.
+
+Package varwidth Warning: Failed to reprocess entire contents on input line 118
+.
 
 
-
-Package varwidth Warning: Failed to reprocess entire contents on input line 24.
-
+Package varwidth Warning: Failed to reprocess entire contents on input line 118
+.
 
 [8
 
-]
+ <./images/idyot-seqmem-graph-model.png> <./images/hierarchical-block-model.png
+>]
 
-Package varwidth Warning: Failed to reprocess entire contents on input line 28.
+Package varwidth Warning: Failed to reprocess entire contents on input line 136
+.
 
 
-
-Package varwidth Warning: Failed to reprocess entire contents on input line 28.
-
+Package varwidth Warning: Failed to reprocess entire contents on input line 136
+.
 
 [9
 
 ]
 
-Package varwidth Warning: Failed to reprocess entire contents on input line 32.
+Package varwidth Warning: Failed to reprocess entire contents on input line 154
+.
 
 
-
-Package varwidth Warning: Failed to reprocess entire contents on input line 32.
-
+Package varwidth Warning: Failed to reprocess entire contents on input line 154
+.
 
 [10
 
 ]
 
-Package varwidth Warning: Failed to reprocess entire contents on input line 50.
+Package varwidth Warning: Failed to reprocess entire contents on input line 172
+.
 
 
-
-Package varwidth Warning: Failed to reprocess entire contents on input line 50.
-
+Package varwidth Warning: Failed to reprocess entire contents on input line 172
+.
 
 [11
-
-]
-
-Package varwidth Warning: Failed to reprocess entire contents on input line 68.
-
-
-
-Package varwidth Warning: Failed to reprocess entire contents on input line 68.
-
-
-[12
 
 ])
 File: dept/vub-ai.pdf Graphic file (type pdf)
 <use dept/vub-ai.pdf>
-Package pdftex.def Info: dept/vub-ai.pdf  used on input line 29.
+Package pdftex.def Info: dept/vub-ai.pdf  used on input line 33.
 (pdftex.def)             Requested size: 307.28987pt x 65.1676pt.
 LaTeX Font Info:    Font shape `T1/Roboto-LF/l/n' aliased to
-(Font)              `T1/Roboto-LF/light/n' on input line 29.
+(Font)              `T1/Roboto-LF/light/n' on input line 33.
 LaTeX Font Info:    Font shape `T1/Roboto-LF/light/n' will be
-(Font)              scaled to size 20.74pt on input line 29.
+(Font)              scaled to size 20.74pt on input line 33.
 
 
-Package varwidth Warning: Failed to reprocess entire contents on input line 29.
+Package varwidth Warning: Failed to reprocess entire contents on input line 33.
 
 
 
-Package varwidth Warning: Failed to reprocess entire contents on input line 29.
+Package varwidth Warning: Failed to reprocess entire contents on input line 33.
 
 
-[13
+[12
 
 
 ]
@@ -1299,12 +1343,12 @@ Package varwidth Warning: Failed to reprocess entire contents on input line 29.
 \tf@snm=\write8
 \openout8 = `presentation.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 31.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 31.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 35.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 35.
  (./presentation.aux (./templates.aux) (./nick/presentation.aux)
 (./steve/presentation.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 31.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 31.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 35.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 35.
 Package rerunfilecheck Info: File `presentation.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 
@@ -1313,24 +1357,25 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 23588 strings out of 481239
- 454010 string characters out of 5920377
- 689699 words of memory out of 5000000
- 38215 multiletter control sequences out of 15000+600000
- 633463 words of font info for 78 fonts, out of 8000000 for 9000
+ 24330 strings out of 481239
+ 472780 string characters out of 5920377
+ 720657 words of memory out of 5000000
+ 38941 multiletter control sequences out of 15000+600000
+ 633918 words of font info for 79 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 60i,13n,78p,809b,966s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 58i,13n,78p,809b,1445s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/roboto/rbto_b5rac7.enc}{/usr/s
 hare/texmf/fonts/enc/dvips/tex-gyre/q-ec.enc}</usr/share/texlive/texmf-dist/fon
 ts/type1/google/roboto/Roboto-Bold.pfb></usr/share/texlive/texmf-dist/fonts/typ
-e1/google/roboto/Roboto-Light.pfb></usr/share/texlive/texmf-dist/fonts/type1/go
-ogle/roboto/Roboto-LightItalic.pfb></usr/share/texlive/texmf-dist/fonts/type1/p
-ublic/amsfonts/symbols/msam10.pfb></usr/share/texmf/fonts/type1/public/tex-gyre
-/qagb.pfb></usr/share/texmf/fonts/type1/public/tex-gyre/qagr.pfb>
-Output written on presentation.pdf (13 pages, 244843 bytes).
+e1/google/roboto/Roboto-Italic.pfb></usr/share/texlive/texmf-dist/fonts/type1/g
+oogle/roboto/Roboto-Light.pfb></usr/share/texlive/texmf-dist/fonts/type1/google
+/roboto/Roboto-LightItalic.pfb></usr/share/texlive/texmf-dist/fonts/type1/publi
+c/amsfonts/symbols/msam10.pfb></usr/share/texmf/fonts/type1/public/tex-gyre/qag
+b.pfb></usr/share/texmf/fonts/type1/public/tex-gyre/qagr.pfb>
+Output written on presentation.pdf (12 pages, 684805 bytes).
 PDF statistics:
- 137 PDF objects out of 1000 (max. 8388607)
- 100 compressed objects within 1 object stream
- 27 named destinations out of 1000 (max. 500000)
- 59 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 142 PDF objects out of 1000 (max. 8388607)
+ 99 compressed objects within 1 object stream
+ 25 named destinations out of 1000 (max. 500000)
+ 74 words of extra memory for PDF output out of 10000 (max. 10000000)
 
