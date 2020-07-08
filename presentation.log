@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.5.10)  8 JUL 2020 14:18
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.5.10)  8 JUL 2020 15:02
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -841,13 +841,10 @@ LaTeX Font Info:    Font shape `T1/Roboto-LF/l/n' aliased to
 LaTeX Font Info:    Font shape `T1/Roboto-LF/light/n' will be
 (Font)              scaled to size 10.95pt on input line 112.
 )))
-\pgfpages@box@1=\box80
-\pgfpages@box@2=\box81
-
 (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
 File: l3backend-pdfmode.def 2020-02-03 L3 backend support: PDF mode
 \l__kernel_color_stack_int=\count331
-\l__pdf_internal_box=\box82
+\l__pdf_internal_box=\box80
 )
 (./presentation.aux (./templates.aux) (./nick/presentation.aux)
 (./steve/presentation.aux))
@@ -915,7 +912,7 @@ LaTeX Font Info:    ... okay on input line 10.
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count332
 \scratchdimen=\dimen296
-\scratchbox=\box83
+\scratchbox=\box81
 \nofMPsegments=\count333
 \nofMParguments=\count334
 \everyMPshowfont=\toks47
@@ -934,7 +931,7 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
 ABD: EveryShipout initializing macros
-\AtBeginShipoutBox=\box84
+\AtBeginShipoutBox=\box82
 Package hyperref Info: Link coloring OFF on input line 10.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
@@ -1063,15 +1060,11 @@ Underfull \hbox (badness 10000) has occurred while \output is active
  [][]
  []
 
-LaTeX Font Info:    Font shape `T1/Roboto-LF/l/n' aliased to
-(Font)              `T1/Roboto-LF/light/n' on input line 17.
-LaTeX Font Info:    Font shape `T1/Roboto-LF/light/n' will be
-(Font)              scaled to size 10.0pt on input line 17.
-LaTeX Font Info:    Font shape `T1/Roboto-LF/l/n' aliased to
-(Font)              `T1/Roboto-LF/light/n' on input line 17.
-LaTeX Font Info:    Font shape `T1/Roboto-LF/light/n' will be
-(Font)              scaled to size 9.0pt on input line 17.
+[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
+
+ <./dept/vub-ai.pdf>]
 \openout2 = `templates.aux'.
+
 
 (./templates.tex
 LaTeX Font Info:    Font shape `T1/Roboto-LF/l/n' aliased to
@@ -1142,23 +1135,10 @@ LaTeX Font Info:    Font shape `T1/Roboto-LF/m/it' aliased to
 (Font)              `T1/Roboto-LF/regular/it' on input line 18.
 LaTeX Font Info:    Font shape `T1/Roboto-LF/regular/it' will be
 (Font)              scaled to size 12.0pt on input line 18.
-[2{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
+[2
 
-pdfTeX warning (ext4): destination with the same identifier (name{Navigation1})
- has been already used, duplicate ignored
 
-\pgfpages@shipoutshipoutbox ...physicalpagesizes }
-                                                  \endgroup 
-l.18 \end{frame}
-                pdfTeX warning (ext4): destination with the same identifier (na
-me{page.1}) has been already used, duplicate ignored
-
-\pgfpages@shipoutshipoutbox ...physicalpagesizes }
-                                                  \endgroup 
-l.18 \end{frame}
-                
-
- <./dept/vub-ai.pdf>]
+]
 
 Package varwidth Warning: Failed to reprocess entire contents on input line 44.
 
@@ -1168,21 +1148,6 @@ Package varwidth Warning: Failed to reprocess entire contents on input line 44.
 
 
 [3
-
-
-pdfTeX warning (ext4): destination with the same identifier (name{Navigation2})
- has been already used, duplicate ignored
-
-\pgfpages@shipoutshipoutbox ...physicalpagesizes }
-                                                  \endgroup 
-l.44 \end{frame}
-                pdfTeX warning (ext4): destination with the same identifier (na
-me{page.2}) has been already used, duplicate ignored
-
-\pgfpages@shipoutshipoutbox ...physicalpagesizes }
-                                                  \endgroup 
-l.44 \end{frame}
-                
 
 ]
 <images/test.pdf, id=46, 1528.71124pt x 324.21124pt>
@@ -1205,27 +1170,105 @@ Package varwidth Warning: Failed to reprocess entire contents on input line 68.
 
 [4
 
-pdfTeX warning (ext4): destination with the same identifier (name{Navigation3})
- has been already used, duplicate ignored
-
-\pgfpages@shipoutshipoutbox ...physicalpagesizes }
-                                                  \endgroup 
-l.68 \end{frame}
-                pdfTeX warning (ext4): destination with the same identifier (na
-me{page.3}) has been already used, duplicate ignored
-
-\pgfpages@shipoutshipoutbox ...physicalpagesizes }
-                                                  \endgroup 
-l.68 \end{frame}
-                
-
-])
+ <./images/test.pdf>])
 \openout2 = `nick/presentation.aux'.
 
  (./nick/presentation.tex)
 \openout2 = `steve/presentation.aux'.
 
- (./steve/presentation.tex)
+ (./steve/presentation.tex
+
+Package varwidth Warning: Failed to reprocess entire contents on input line 12.
+
+
+
+Package varwidth Warning: Failed to reprocess entire contents on input line 12.
+
+
+[5
+
+
+
+
+
+]
+
+Package varwidth Warning: Failed to reprocess entire contents on input line 16.
+
+
+
+Package varwidth Warning: Failed to reprocess entire contents on input line 16.
+
+
+[6
+
+]
+
+Package varwidth Warning: Failed to reprocess entire contents on input line 20.
+
+
+
+Package varwidth Warning: Failed to reprocess entire contents on input line 20.
+
+
+[7
+
+]
+
+Package varwidth Warning: Failed to reprocess entire contents on input line 24.
+
+
+
+Package varwidth Warning: Failed to reprocess entire contents on input line 24.
+
+
+[8
+
+]
+
+Package varwidth Warning: Failed to reprocess entire contents on input line 28.
+
+
+
+Package varwidth Warning: Failed to reprocess entire contents on input line 28.
+
+
+[9
+
+]
+
+Package varwidth Warning: Failed to reprocess entire contents on input line 32.
+
+
+
+Package varwidth Warning: Failed to reprocess entire contents on input line 32.
+
+
+[10
+
+]
+
+Package varwidth Warning: Failed to reprocess entire contents on input line 50.
+
+
+
+Package varwidth Warning: Failed to reprocess entire contents on input line 50.
+
+
+[11
+
+]
+
+Package varwidth Warning: Failed to reprocess entire contents on input line 68.
+
+
+
+Package varwidth Warning: Failed to reprocess entire contents on input line 68.
+
+
+[12
+
+])
 File: dept/vub-ai.pdf Graphic file (type pdf)
 <use dept/vub-ai.pdf>
 Package pdftex.def Info: dept/vub-ai.pdf  used on input line 29.
@@ -1243,26 +1286,10 @@ Package varwidth Warning: Failed to reprocess entire contents on input line 29.
 Package varwidth Warning: Failed to reprocess entire contents on input line 29.
 
 
-[5
+[13
 
 
-\@writefile{nav}{\headcommand {\slideentry {0}{0}{4}{4/4}{}{0}}}
-\@writefile{nav}{\headcommand {\beamer@framepages {4}{4}}}
-pdfTeX warning (ext4): destination with the same identifier (name{Navigation4})
- has been already used, duplicate ignored
-
-\pgfpages@shipoutshipoutbox ...physicalpagesizes }
-                                                  \endgroup 
-l.29 \end{frame}
-                pdfTeX warning (ext4): destination with the same identifier (na
-me{page.4}) has been already used, duplicate ignored
-
-\pgfpages@shipoutshipoutbox ...physicalpagesizes }
-                                                  \endgroup 
-l.29 \end{frame}
-                
-
- <./images/test.pdf>]
+]
 \tf@nav=\write6
 \openout6 = `presentation.nav'.
 
@@ -1272,32 +1299,10 @@ l.29 \end{frame}
 \tf@snm=\write8
 \openout8 = `presentation.snm'.
 
- [6
-
-
-
-
-
-
-pdfTeX warning (ext4): destination with the same identifier (name{Navigation5})
- has been already used, duplicate ignored
-
-\pgfpages@shipoutshipoutbox ...physicalpagesizes }
-                                                  \endgroup 
-l.31 \end{document}
-                   pdfTeX warning (ext4): destination with the same identifier 
-(name{page.5}) has been already used, duplicate ignored
-
-\pgfpages@shipoutshipoutbox ...physicalpagesizes }
-                                                  \endgroup 
-l.31 \end{document}
-                   
-
-]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 31.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 31.
- (./presentation.aux (./templates.aux)
-(./nick/presentation.aux) (./steve/presentation.aux))
+ (./presentation.aux (./templates.aux) (./nick/presentation.aux)
+(./steve/presentation.aux))
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 31.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 31.
 Package rerunfilecheck Info: File `presentation.out' has not changed.
@@ -1308,13 +1313,13 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 23640 strings out of 481239
- 455721 string characters out of 5920377
- 703896 words of memory out of 5000000
- 38281 multiletter control sequences out of 15000+600000
- 643775 words of font info for 82 fonts, out of 8000000 for 9000
+ 23588 strings out of 481239
+ 454010 string characters out of 5920377
+ 689699 words of memory out of 5000000
+ 38215 multiletter control sequences out of 15000+600000
+ 633463 words of font info for 78 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 60i,13n,78p,800b,966s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 60i,13n,78p,809b,966s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/roboto/rbto_b5rac7.enc}{/usr/s
 hare/texmf/fonts/enc/dvips/tex-gyre/q-ec.enc}</usr/share/texlive/texmf-dist/fon
 ts/type1/google/roboto/Roboto-Bold.pfb></usr/share/texlive/texmf-dist/fonts/typ
@@ -1322,10 +1327,10 @@ e1/google/roboto/Roboto-Light.pfb></usr/share/texlive/texmf-dist/fonts/type1/go
 ogle/roboto/Roboto-LightItalic.pfb></usr/share/texlive/texmf-dist/fonts/type1/p
 ublic/amsfonts/symbols/msam10.pfb></usr/share/texmf/fonts/type1/public/tex-gyre
 /qagb.pfb></usr/share/texmf/fonts/type1/public/tex-gyre/qagr.pfb>
-Output written on presentation.pdf (5 pages, 238747 bytes).
+Output written on presentation.pdf (13 pages, 244843 bytes).
 PDF statistics:
- 99 PDF objects out of 1000 (max. 8388607)
- 67 compressed objects within 1 object stream
- 11 named destinations out of 1000 (max. 500000)
+ 137 PDF objects out of 1000 (max. 8388607)
+ 100 compressed objects within 1 object stream
+ 27 named destinations out of 1000 (max. 500000)
  59 words of extra memory for PDF output out of 10000 (max. 10000000)
 
