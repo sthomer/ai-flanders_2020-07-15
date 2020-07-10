@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.5.10)  8 JUL 2020 16:59
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.5.10)  10 JUL 2020 13:45
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -867,8 +867,7 @@ File: l3backend-pdfmode.def 2020-02-03 L3 backend support: PDF mode
 \l__kernel_color_stack_int=\count335
 \l__pdf_internal_box=\box80
 )
-(./presentation.aux (./templates.aux) (./nick/presentation.aux)
-(./steve/presentation.aux))
+(./presentation.aux (./nick/presentation.aux) (./steve/presentation.aux))
 \openout1 = `presentation.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
@@ -890,7 +889,8 @@ LaTeX Font Info:    ... okay on input line 14.
 LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 14.
 LaTeX Font Info:    Trying to load font information for T3+cmr on input line 14
 .
- (/usr/share/texmf/tex/latex/tipa/t3cmr.fd
+
+(/usr/share/texmf/tex/latex/tipa/t3cmr.fd
 File: t3cmr.fd 2001/12/31 TIPA font definitions
 )
 LaTeX Font Info:    ... okay on input line 14.
@@ -1084,117 +1084,10 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
 
  <./dept/vub-ai.pdf>]
-\openout2 = `templates.aux'.
-
-
-(./templates.tex
-LaTeX Font Info:    Font shape `T1/Roboto-LF/l/n' aliased to
-(Font)              `T1/Roboto-LF/light/n' on input line 18.
-LaTeX Font Info:    Font shape `T1/Roboto-LF/light/n' will be
-(Font)              scaled to size 12.0pt on input line 18.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 18.
-
- (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
-LaTeX Font Info:    Trying to load font information for U+msb on input line 18.
-
-
-(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-LaTeX Font Info:    Font shape `T1/Roboto-LF/m/n' aliased to
-(Font)              `T1/Roboto-LF/regular/n' on input line 18.
-LaTeX Font Info:    Font shape `T1/Roboto-LF/regular/n' will be
-(Font)              scaled to size 10.95pt on input line 18.
-LaTeX Font Info:    Font shape `T1/Roboto-LF/m/n' aliased to
-(Font)              `T1/Roboto-LF/regular/n' on input line 18.
-LaTeX Font Info:    Font shape `T1/Roboto-LF/regular/n' will be
-(Font)              scaled to size 8.0pt on input line 18.
-LaTeX Font Info:    Font shape `T1/Roboto-LF/m/n' aliased to
-(Font)              `T1/Roboto-LF/regular/n' on input line 18.
-LaTeX Font Info:    Font shape `T1/Roboto-LF/regular/n' will be
-(Font)              scaled to size 6.0pt on input line 18.
-LaTeX Font Info:    Font shape `T1/Roboto-LF/m/it' aliased to
-(Font)              `T1/Roboto-LF/regular/it' on input line 18.
-LaTeX Font Info:    Font shape `T1/Roboto-LF/regular/it' will be
-(Font)              scaled to size 10.95pt on input line 18.
-LaTeX Font Info:    Font shape `T1/Roboto-LF/m/it' aliased to
-(Font)              `T1/Roboto-LF/regular/it' on input line 18.
-LaTeX Font Info:    Font shape `T1/Roboto-LF/regular/it' will be
-(Font)              scaled to size 8.0pt on input line 18.
-LaTeX Font Info:    Font shape `T1/Roboto-LF/m/it' aliased to
-(Font)              `T1/Roboto-LF/regular/it' on input line 18.
-LaTeX Font Info:    Font shape `T1/Roboto-LF/regular/it' will be
-(Font)              scaled to size 6.0pt on input line 18.
-LaTeX Font Info:    Font shape `T1/Roboto-LF/b/n' aliased to
-(Font)              `T1/Roboto-LF/bold/n' on input line 18.
-LaTeX Font Info:    Font shape `T1/Roboto-LF/bold/n' will be
-(Font)              scaled to size 10.95pt on input line 18.
-LaTeX Font Info:    Font shape `T1/Roboto-LF/l/it' aliased to
-(Font)              `T1/Roboto-LF/light/it' on input line 18.
-LaTeX Font Info:    Font shape `T1/Roboto-LF/light/it' will be
-(Font)              scaled to size 10.95pt on input line 18.
-LaTeX Font Info:    Font shape `T1/Roboto-LF/l/n' aliased to
-(Font)              `T1/Roboto-LF/light/n' on input line 18.
-LaTeX Font Info:    Font shape `T1/Roboto-LF/light/n' will be
-(Font)              scaled to size 14.4pt on input line 18.
-
-
-Package varwidth Warning: Failed to reprocess entire contents on input line 18.
-
-
-
-Package varwidth Warning: Failed to reprocess entire contents on input line 18.
-
-
-LaTeX Font Info:    Font shape `T1/Roboto-LF/m/n' aliased to
-(Font)              `T1/Roboto-LF/regular/n' on input line 18.
-LaTeX Font Info:    Font shape `T1/Roboto-LF/regular/n' will be
-(Font)              scaled to size 12.0pt on input line 18.
-LaTeX Font Info:    Font shape `T1/Roboto-LF/m/it' aliased to
-(Font)              `T1/Roboto-LF/regular/it' on input line 18.
-LaTeX Font Info:    Font shape `T1/Roboto-LF/regular/it' will be
-(Font)              scaled to size 12.0pt on input line 18.
-[2
-
-
-]
-
-Package varwidth Warning: Failed to reprocess entire contents on input line 44.
-
-
-
-Package varwidth Warning: Failed to reprocess entire contents on input line 44.
-
-
-[3
-
-]
-<images/test.pdf, id=46, 1528.71124pt x 324.21124pt>
-File: images/test.pdf Graphic file (type pdf)
-<use images/test.pdf>
-Package pdftex.def Info: images/test.pdf  used on input line 68.
-(pdftex.def)             Requested size: 153.64493pt x 32.58133pt.
-File: images/test.pdf Graphic file (type pdf)
-<use images/test.pdf>
-Package pdftex.def Info: images/test.pdf  used on input line 68.
-(pdftex.def)             Requested size: 153.64493pt x 32.58133pt.
-
-
-Package varwidth Warning: Failed to reprocess entire contents on input line 68.
-
-
-
-Package varwidth Warning: Failed to reprocess entire contents on input line 68.
-
-
-[4
-
- <./images/test.pdf>])
 \openout2 = `nick/presentation.aux'.
 
- (./nick/presentation.tex)
+
+(./nick/presentation.tex)
 \openout2 = `steve/presentation.aux'.
 
  (./steve/presentation.tex
@@ -1211,6 +1104,60 @@ File: pgflibraryarrows.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 zlibrarypositioning.code.tex
 File: tikzlibrarypositioning.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 )
+LaTeX Font Info:    Font shape `T1/Roboto-LF/l/n' aliased to
+(Font)              `T1/Roboto-LF/light/n' on input line 14.
+LaTeX Font Info:    Font shape `T1/Roboto-LF/light/n' will be
+(Font)              scaled to size 12.0pt on input line 14.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 14.
+
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 14.
+
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Font shape `T1/Roboto-LF/m/n' aliased to
+(Font)              `T1/Roboto-LF/regular/n' on input line 14.
+LaTeX Font Info:    Font shape `T1/Roboto-LF/regular/n' will be
+(Font)              scaled to size 10.95pt on input line 14.
+LaTeX Font Info:    Font shape `T1/Roboto-LF/m/n' aliased to
+(Font)              `T1/Roboto-LF/regular/n' on input line 14.
+LaTeX Font Info:    Font shape `T1/Roboto-LF/regular/n' will be
+(Font)              scaled to size 8.0pt on input line 14.
+LaTeX Font Info:    Font shape `T1/Roboto-LF/m/n' aliased to
+(Font)              `T1/Roboto-LF/regular/n' on input line 14.
+LaTeX Font Info:    Font shape `T1/Roboto-LF/regular/n' will be
+(Font)              scaled to size 6.0pt on input line 14.
+LaTeX Font Info:    Font shape `T1/Roboto-LF/m/it' aliased to
+(Font)              `T1/Roboto-LF/regular/it' on input line 14.
+LaTeX Font Info:    Font shape `T1/Roboto-LF/regular/it' will be
+(Font)              scaled to size 10.95pt on input line 14.
+LaTeX Font Info:    Font shape `T1/Roboto-LF/m/it' aliased to
+(Font)              `T1/Roboto-LF/regular/it' on input line 14.
+LaTeX Font Info:    Font shape `T1/Roboto-LF/regular/it' will be
+(Font)              scaled to size 8.0pt on input line 14.
+LaTeX Font Info:    Font shape `T1/Roboto-LF/m/it' aliased to
+(Font)              `T1/Roboto-LF/regular/it' on input line 14.
+LaTeX Font Info:    Font shape `T1/Roboto-LF/regular/it' will be
+(Font)              scaled to size 6.0pt on input line 14.
+LaTeX Font Info:    Font shape `T1/Roboto-LF/b/n' aliased to
+(Font)              `T1/Roboto-LF/bold/n' on input line 14.
+LaTeX Font Info:    Font shape `T1/Roboto-LF/bold/n' will be
+(Font)              scaled to size 10.95pt on input line 14.
+<images/padeogram-wide.png, id=33, 1477.52pt x 654.445pt>
+File: images/padeogram-wide.png Graphic file (type png)
+<use images/padeogram-wide.png>
+Package pdftex.def Info: images/padeogram-wide.png  used on input line 14.
+(pdftex.def)             Requested size: 245.83282pt x 108.88748pt.
+LaTeX Font Info:    Font shape `T1/Roboto-LF/l/n' aliased to
+(Font)              `T1/Roboto-LF/light/n' on input line 14.
+LaTeX Font Info:    Font shape `T1/Roboto-LF/light/n' will be
+(Font)              scaled to size 14.4pt on input line 14.
+
 
 Package varwidth Warning: Failed to reprocess entire contents on input line 14.
 
@@ -1219,19 +1166,26 @@ Package varwidth Warning: Failed to reprocess entire contents on input line 14.
 Package varwidth Warning: Failed to reprocess entire contents on input line 14.
 
 
-[5
+LaTeX Font Info:    Font shape `T1/Roboto-LF/m/n' aliased to
+(Font)              `T1/Roboto-LF/regular/n' on input line 14.
+LaTeX Font Info:    Font shape `T1/Roboto-LF/regular/n' will be
+(Font)              scaled to size 12.0pt on input line 14.
+LaTeX Font Info:    Font shape `T1/Roboto-LF/m/it' aliased to
+(Font)              `T1/Roboto-LF/regular/it' on input line 14.
+LaTeX Font Info:    Font shape `T1/Roboto-LF/regular/it' will be
+(Font)              scaled to size 12.0pt on input line 14.
+[2
 
 
 
 
-
-]
-<images/phonetic-sequential-memory.png, id=65, 1895.08pt x 519.9425pt>
+ <./images/padeogram-wide.png>]
+<images/phonetic-sequential-memory.png, id=43, 1895.08pt x 519.9425pt>
 File: images/phonetic-sequential-memory.png Graphic file (type png)
 <use images/phonetic-sequential-memory.png>
 Package pdftex.def Info: images/phonetic-sequential-memory.png  used on input l
 ine 28.
-(pdftex.def)             Requested size: 307.28987pt x 84.3032pt.
+(pdftex.def)             Requested size: 276.559pt x 75.87766pt.
 
 
 Package varwidth Warning: Failed to reprocess entire contents on input line 28.
@@ -1241,76 +1195,76 @@ Package varwidth Warning: Failed to reprocess entire contents on input line 28.
 Package varwidth Warning: Failed to reprocess entire contents on input line 28.
 
 
-[6
+[3
 
  <./images/phonetic-sequential-memory.png>]
 
-Package varwidth Warning: Failed to reprocess entire contents on input line 102
+Package varwidth Warning: Failed to reprocess entire contents on input line 112
 .
 
 
-Package varwidth Warning: Failed to reprocess entire contents on input line 102
+Package varwidth Warning: Failed to reprocess entire contents on input line 112
+.
+
+[4
+
+]
+<images/idyot-seqmem-graph-model.png, id=60, 515.9275pt x 592.2125pt>
+File: images/idyot-seqmem-graph-model.png Graphic file (type png)
+<use images/idyot-seqmem-graph-model.png>
+Package pdftex.def Info: images/idyot-seqmem-graph-model.png  used on input lin
+e 132.
+(pdftex.def)             Requested size: 149.03577pt x 171.06853pt.
+<images/hierarchical-block-model.png, id=61, 1300.86pt x 1457.445pt>
+File: images/hierarchical-block-model.png Graphic file (type png)
+<use images/hierarchical-block-model.png>
+Package pdftex.def Info: images/hierarchical-block-model.png  used on input lin
+e 132.
+(pdftex.def)             Requested size: 153.64493pt x 172.12823pt.
+
+
+Package varwidth Warning: Failed to reprocess entire contents on input line 132
+.
+
+
+Package varwidth Warning: Failed to reprocess entire contents on input line 132
+.
+
+[5
+
+ <./images/idyot-seqmem-graph-model.png> <./images/hierarchical-block-model.png
+>]
+
+Package varwidth Warning: Failed to reprocess entire contents on input line 149
+.
+
+
+Package varwidth Warning: Failed to reprocess entire contents on input line 149
+.
+
+[6
+
+]
+
+Package varwidth Warning: Failed to reprocess entire contents on input line 166
+.
+
+
+Package varwidth Warning: Failed to reprocess entire contents on input line 166
 .
 
 [7
 
 ]
-<images/idyot-seqmem-graph-model.png, id=80, 515.9275pt x 592.2125pt>
-File: images/idyot-seqmem-graph-model.png Graphic file (type png)
-<use images/idyot-seqmem-graph-model.png>
-Package pdftex.def Info: images/idyot-seqmem-graph-model.png  used on input lin
-e 118.
-(pdftex.def)             Requested size: 153.64493pt x 176.36386pt.
-<images/hierarchical-block-model.png, id=81, 1300.86pt x 1457.445pt>
-File: images/hierarchical-block-model.png Graphic file (type png)
-<use images/hierarchical-block-model.png>
-Package pdftex.def Info: images/hierarchical-block-model.png  used on input lin
-e 118.
-(pdftex.def)             Requested size: 153.64493pt x 172.12823pt.
 
-
-Package varwidth Warning: Failed to reprocess entire contents on input line 118
+Package varwidth Warning: Failed to reprocess entire contents on input line 184
 .
 
 
-Package varwidth Warning: Failed to reprocess entire contents on input line 118
+Package varwidth Warning: Failed to reprocess entire contents on input line 184
 .
 
 [8
-
- <./images/idyot-seqmem-graph-model.png> <./images/hierarchical-block-model.png
->]
-
-Package varwidth Warning: Failed to reprocess entire contents on input line 136
-.
-
-
-Package varwidth Warning: Failed to reprocess entire contents on input line 136
-.
-
-[9
-
-]
-
-Package varwidth Warning: Failed to reprocess entire contents on input line 154
-.
-
-
-Package varwidth Warning: Failed to reprocess entire contents on input line 154
-.
-
-[10
-
-]
-
-Package varwidth Warning: Failed to reprocess entire contents on input line 172
-.
-
-
-Package varwidth Warning: Failed to reprocess entire contents on input line 172
-.
-
-[11
 
 ])
 File: dept/vub-ai.pdf Graphic file (type pdf)
@@ -1330,7 +1284,7 @@ Package varwidth Warning: Failed to reprocess entire contents on input line 33.
 Package varwidth Warning: Failed to reprocess entire contents on input line 33.
 
 
-[12
+[9
 
 
 ]
@@ -1345,8 +1299,7 @@ Package varwidth Warning: Failed to reprocess entire contents on input line 33.
 
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 35.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 35.
- (./presentation.aux (./templates.aux) (./nick/presentation.aux)
-(./steve/presentation.aux))
+ (./presentation.aux (./nick/presentation.aux) (./steve/presentation.aux))
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 35.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 35.
 Package rerunfilecheck Info: File `presentation.out' has not changed.
@@ -1357,25 +1310,30 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 24330 strings out of 481239
- 472780 string characters out of 5920377
- 720657 words of memory out of 5000000
- 38941 multiletter control sequences out of 15000+600000
- 633918 words of font info for 79 fonts, out of 8000000 for 9000
+ 24302 strings out of 481239
+ 472443 string characters out of 5920377
+ 722743 words of memory out of 5000000
+ 38926 multiletter control sequences out of 15000+600000
+ 629592 words of font info for 79 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 58i,13n,78p,809b,1445s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 58i,13n,78p,809b,1500s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/roboto/rbto_b5rac7.enc}{/usr/s
 hare/texmf/fonts/enc/dvips/tex-gyre/q-ec.enc}</usr/share/texlive/texmf-dist/fon
 ts/type1/google/roboto/Roboto-Bold.pfb></usr/share/texlive/texmf-dist/fonts/typ
 e1/google/roboto/Roboto-Italic.pfb></usr/share/texlive/texmf-dist/fonts/type1/g
-oogle/roboto/Roboto-Light.pfb></usr/share/texlive/texmf-dist/fonts/type1/google
-/roboto/Roboto-LightItalic.pfb></usr/share/texlive/texmf-dist/fonts/type1/publi
-c/amsfonts/symbols/msam10.pfb></usr/share/texmf/fonts/type1/public/tex-gyre/qag
-b.pfb></usr/share/texmf/fonts/type1/public/tex-gyre/qagr.pfb>
-Output written on presentation.pdf (12 pages, 684805 bytes).
+oogle/roboto/Roboto-Light.pfb></usr/share/texlive/texmf-dist/fonts/type1/public
+/amsfonts/cmextra/cmex8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/a
+msfonts/cm/cmss10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfont
+s/cm/cmss8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cm
+sy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pf
+b></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr
+/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/
+share/texmf/fonts/type1/public/tex-gyre/qagb.pfb></usr/share/texmf/fonts/type1/
+public/tex-gyre/qagr.pfb>
+Output written on presentation.pdf (9 pages, 1312607 bytes).
 PDF statistics:
- 142 PDF objects out of 1000 (max. 8388607)
- 99 compressed objects within 1 object stream
- 25 named destinations out of 1000 (max. 500000)
+ 139 PDF objects out of 1000 (max. 8388607)
+ 96 compressed objects within 1 object stream
+ 19 named destinations out of 1000 (max. 500000)
  74 words of extra memory for PDF output out of 10000 (max. 10000000)
 
