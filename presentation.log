@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.7.9)  14 JUL 2020 19:09
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.7.9)  15 JUL 2020 11:31
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -880,7 +880,7 @@ File: l3backend-pdfmode.def 2020-03-12 L3 backend support: PDF mode
 \l__kernel_color_stack_int=\count334
 \l__pdf_internal_box=\box80
 )
-(./presentation.aux)
+(./presentation.aux (./nick/presentation.aux) (./steve/presentation.aux))
 \openout1 = `presentation.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
@@ -1200,15 +1200,15 @@ Package varwidth Warning: Failed to reprocess entire contents on input line 44.
 <images/f0-flute.png, id=54, 404.51125pt x 322.20375pt>
 File: images/f0-flute.png Graphic file (type png)
 <use images/f0-flute.png>
-Package pdftex.def Info: images/f0-flute.png  used on input line 70.
+Package pdftex.def Info: images/f0-flute.png  used on input line 71.
 (pdftex.def)             Requested size: 153.64493pt x 122.38461pt.
 
 
-Package varwidth Warning: Failed to reprocess entire contents on input line 70.
+Package varwidth Warning: Failed to reprocess entire contents on input line 71.
 
 
 
-Package varwidth Warning: Failed to reprocess entire contents on input line 70.
+Package varwidth Warning: Failed to reprocess entire contents on input line 71.
 
 
 [5
@@ -1217,15 +1217,15 @@ Package varwidth Warning: Failed to reprocess entire contents on input line 70.
 <images/f0-voice.png, id=61, 404.51125pt x 322.20375pt>
 File: images/f0-voice.png Graphic file (type png)
 <use images/f0-voice.png>
-Package pdftex.def Info: images/f0-voice.png  used on input line 90.
+Package pdftex.def Info: images/f0-voice.png  used on input line 92.
 (pdftex.def)             Requested size: 153.64493pt x 122.38461pt.
 
 
-Package varwidth Warning: Failed to reprocess entire contents on input line 90.
+Package varwidth Warning: Failed to reprocess entire contents on input line 92.
 
 
 
-Package varwidth Warning: Failed to reprocess entire contents on input line 90.
+Package varwidth Warning: Failed to reprocess entire contents on input line 92.
 
 
 [6
@@ -1400,10 +1400,10 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 24336 strings out of 480608
- 475538 string characters out of 5903631
- 725218 words of memory out of 5000000
- 39573 multiletter control sequences out of 15000+600000
+ 24352 strings out of 480608
+ 475749 string characters out of 5903631
+ 726034 words of memory out of 5000000
+ 39585 multiletter control sequences out of 15000+600000
  640025 words of font info for 85 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  58i,13n,78p,809b,1500s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1421,7 +1421,7 @@ xlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texl
 ive/2020/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/local/
 texlive/2020/texmf-dist/fonts/type1/public/tex-gyre/qagb.pfb></usr/local/texliv
 e/2020/texmf-dist/fonts/type1/public/tex-gyre/qagr.pfb>
-Output written on presentation.pdf (14 pages, 1470153 bytes).
+Output written on presentation.pdf (14 pages, 1470480 bytes).
 PDF statistics:
  175 PDF objects out of 1000 (max. 8388607)
  118 compressed objects within 2 object streams
